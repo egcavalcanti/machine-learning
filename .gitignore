@@ -63,3 +63,4 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+projects/capstone/photon_detector/TES_dataset.npz
